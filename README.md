@@ -1,5 +1,4 @@
 # Acolyte-Voice-controlled-desktop-assistant
-Introducing our Python-based desktop assistant, designed to simplify your daily tasks with voice commands. From mini PC tasks to playing quiz games, this assistant does it all. Try it out today and see the difference it can make in your productivity!
 
 ## Introduction
 This Python-based desktop assistant performs various tasks based on user voice commands. It uses the SpeechRecognition library to capture audio from the user and convert it into text, and then uses the pyttsx3 library to convert text into speech for the assistant's responses. It also uses various APIs and modules to perform tasks such as sending emails, searching the web, opening files and applications, and more.
